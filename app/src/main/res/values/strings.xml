@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KotlinPhotoApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="travel_beautiful_photos">Travel Beautiful Photos</string>
+    <string name="search_photos">Search photos</string>
+    <string name="photo_image">photo image</string>
+    <string name="sample_description">Rated as the third most liveable city in the world, Auckland is a place where vibrant city style and spectacular landscapes go hand in hand.</string>
+    <string name="photo_image_of_one_item">photo image of one item</string>
+</resources>
