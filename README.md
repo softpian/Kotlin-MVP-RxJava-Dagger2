@@ -33,7 +33,7 @@ This Kotlin application was implemented based on [Reactive Programming][14] usin
 
 [RxJava][15] was used as follows: 
 
-* Making RESTFul API calls and processing responses - [RxJava2 Adapter][17] of Retrofit which makes Observable object used for receiving a response instead of normal Call object.
+* Making RESTful API calls and processing responses - [RxJava2 Adapter][17] of Retrofit which makes Observable object used for receiving a response instead of normal Call object.
  
 * Processing UI events, especially from EditText - [RxBinding][18]
 
