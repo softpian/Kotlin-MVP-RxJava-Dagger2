@@ -75,7 +75,7 @@ This repository is able to help understand how to use the following skills.
 
 Screenshots
 -----------
-![KotlinPhotoMVP screenshot](https://softpian.github.io/gifs/KotlinPhotoMVP_1.gif)
+![KotlinPhotoMVP screenshot](https://softpian.github.io/gifs/KotlinPhotoMVP_2.gif)
 
 
 Getting Started
