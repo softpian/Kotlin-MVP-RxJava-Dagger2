@@ -3,6 +3,8 @@ Android Photo application implementing MVP Architecture, RxJava and Dagger 2 wit
 
 Introduction
 ------------
+This application embraces trendy and popular Android development skills, even though the user scenario of this application is simple.
+
 ### Kotlin
 This Android application was written in [Kotlin][11] programming language.
 
